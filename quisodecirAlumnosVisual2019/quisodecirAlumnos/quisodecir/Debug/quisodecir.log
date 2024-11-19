@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  Corrector.cpp
+  quisodecir.cpp
+  Generando código...
+C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\quisodecirAlumnosVisual2019\quisodecirAlumnos\quisodecir\Corrector.cpp(29,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/Corrector.cpp")
+  
+C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\quisodecirAlumnosVisual2019\quisodecirAlumnos\quisodecir\Corrector.cpp(57,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/Corrector.cpp")
+  
+C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\quisodecirAlumnosVisual2019\quisodecirAlumnos\quisodecir\Corrector.cpp(75,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compilando archivo de origen "/Corrector.cpp")
+  
+  quisodecir.vcxproj -> C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\quisodecirAlumnosVisual2019\quisodecirAlumnos\Debug\quisodecir.exe
