@@ -1,0 +1,7 @@
+﻿  pruebaDiccionario.cpp
+C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\PRUEBAS\pruebaDiccionario\pruebaDiccionario\pruebaDiccionario.cpp(30,13): error C2059: error de sintaxis: ';'
+C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\PRUEBAS\pruebaDiccionario\pruebaDiccionario\pruebaDiccionario.cpp(57,2): error C2059: error de sintaxis: 'else'
+C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\PRUEBAS\pruebaDiccionario\pruebaDiccionario\pruebaDiccionario.cpp(58,2): error C2143: error de sintaxis: falta ';' delante de '{'
+C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\PRUEBAS\pruebaDiccionario\pruebaDiccionario\pruebaDiccionario.cpp(58,2): error C2447: '{': falta el encabezado de función (¿lista formal de estilo anterior?)
+C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\PRUEBAS\pruebaDiccionario\pruebaDiccionario\pruebaDiccionario.cpp(61,1): error C2059: error de sintaxis: '}'
+C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\PRUEBAS\pruebaDiccionario\pruebaDiccionario\pruebaDiccionario.cpp(61,1): error C2143: error de sintaxis: falta ';' delante de '}'
