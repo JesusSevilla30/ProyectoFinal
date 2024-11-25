@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jesus\\OneDrive\\Documentos\\FES\\Primer semestre\\PROYECTO2\\PRUEBAS\\clonaPalabras3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5847F71B-270A-46E2-8605-7C7FDBAE0271}|clonaPalabras3\\clonaPalabras3.vcxproj|C:\\Users\\Jesus\\OneDrive\\Documentos\\FES\\Primer semestre\\PROYECTO2\\PRUEBAS\\clonaPalabras3\\clonaPalabras3\\clonaPalabras3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5847F71B-270A-46E2-8605-7C7FDBAE0271}|clonaPalabras3\\clonaPalabras3.vcxproj|solutionrelative:clonaPalabras3\\clonaPalabras3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clonaPalabras3.cpp",
+              "DocumentMoniker": "C:\\Users\\Jesus\\OneDrive\\Documentos\\FES\\Primer semestre\\PROYECTO2\\PRUEBAS\\clonaPalabras3\\clonaPalabras3\\clonaPalabras3.cpp",
+              "RelativeDocumentMoniker": "clonaPalabras3\\clonaPalabras3.cpp",
+              "ToolTip": "C:\\Users\\Jesus\\OneDrive\\Documentos\\FES\\Primer semestre\\PROYECTO2\\PRUEBAS\\clonaPalabras3\\clonaPalabras3\\clonaPalabras3.cpp",
+              "RelativeToolTip": "clonaPalabras3\\clonaPalabras3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T18:25:39.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
