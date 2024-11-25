@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jesus\\OneDrive\\Documentos\\FES\\Primer semestre\\PROYECTO2\\PRUEBAS\\revertir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{293CBCCF-5504-44F8-81E3-830E803D88F7}|revertir\\revertir.vcxproj|C:\\Users\\Jesus\\OneDrive\\Documentos\\FES\\Primer semestre\\PROYECTO2\\PRUEBAS\\revertir\\revertir\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{293CBCCF-5504-44F8-81E3-830E803D88F7}|revertir\\revertir.vcxproj|solutionrelative:revertir\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\Jesus\\OneDrive\\Documentos\\FES\\Primer semestre\\PROYECTO2\\PRUEBAS\\revertir\\revertir\\dllmain.cpp",
+              "RelativeDocumentMoniker": "revertir\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\Jesus\\OneDrive\\Documentos\\FES\\Primer semestre\\PROYECTO2\\PRUEBAS\\revertir\\revertir\\dllmain.cpp",
+              "RelativeToolTip": "revertir\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T18:48:53.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
