@@ -1,0 +1,14 @@
+﻿  pruebaDiccionario2.cpp
+C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\PRUEBAS\pruebaDiccionario2\pruebaDiccionario2\pruebaDiccionario2.cpp(24,22): warning C4473: "fscanf_s": no se pasaron suficientes argumentos para la cadena de formato
+      C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\PRUEBAS\pruebaDiccionario2\pruebaDiccionario2\pruebaDiccionario2.cpp(24,22):
+      los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+      C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\PRUEBAS\pruebaDiccionario2\pruebaDiccionario2\pruebaDiccionario2.cpp(24,22):
+      el argumento variádico 2 que falta es requerido por la cadena de formato '%s'
+      C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\PRUEBAS\pruebaDiccionario2\pruebaDiccionario2\pruebaDiccionario2.cpp(24,22):
+      este argumento se utiliza como un tamaño de búfer
+  
+C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\PRUEBAS\pruebaDiccionario2\pruebaDiccionario2\pruebaDiccionario2.cpp(17,6): warning C4101: 'conta': variable local sin referencia
+C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\PRUEBAS\pruebaDiccionario2\pruebaDiccionario2\pruebaDiccionario2.cpp(18,6): warning C4101: 'iNumPalabra': variable local sin referencia
+C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\PRUEBAS\pruebaDiccionario2\pruebaDiccionario2\pruebaDiccionario2.cpp(21,9): warning C4101: 'j': variable local sin referencia
+C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\PRUEBAS\pruebaDiccionario2\pruebaDiccionario2\pruebaDiccionario2.cpp(14,7): warning C4101: 'palabra': variable local sin referencia
+C:\Users\Jesus\OneDrive\Documentos\FES\Primer semestre\PROYECTO2\PRUEBAS\pruebaDiccionario2\pruebaDiccionario2\pruebaDiccionario2.cpp(24,1): error C4700: se utilizó la variable local 'fp' sin inicializar
